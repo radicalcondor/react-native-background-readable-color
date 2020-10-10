@@ -1,7 +1,7 @@
 {
   "name": "react-native-background-aware-text-example",
   "description": "Example app for react-native-background-aware-text",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
@@ -11,7 +11,8 @@
   "dependencies": {
     "react": "16.11.0",
     "react-native": "0.62.2",
-    "styled-components": "^5.2.0"
+    "styled-components": "^5.2.0",
+    "@radicalcondor/react-native-background-readable-color": "../"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",

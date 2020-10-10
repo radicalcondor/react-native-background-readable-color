@@ -2,7 +2,7 @@ import * as React from 'react';
 import { View, Text} from 'react-native';
 import BackgroundReadableColorText, { ReadablePresets, 
   ReadableBackgroundColor 
-}  from 'react-native-background-aware-text';
+}  from '@radicalcondor/react-native-background-readable-color';
 import styled from 'styled-components/native';
 
 const Container = styled.View<{
