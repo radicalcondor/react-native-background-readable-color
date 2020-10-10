@@ -41,7 +41,7 @@ yarn example android
 
 ## Usage
 
-### useBackgroundReadableColor / useBackgroundReadableColorMemo
+### useBackgroundReadableColor / useBackgroundReadableColorMemo hook
 ```
     backgroundColor?: string;
     presetName?: string;
@@ -58,7 +58,7 @@ const props = {
 const color = useBackgroundReadableColorMemo(props);
 ```
 
-### <BackgroundReadableColorText />
+### BackgroundReadableColorText component
 ```
     backgroundColor?: string;
     children: string;
@@ -77,7 +77,7 @@ const bgColor = 'black';
 </BackgroundReadableColorText>
 ```
 
-### <BackgroundReadableColor />
+### BackgroundReadableColor component
 ```
     backgroundColor?: string;
     presetName?: string;
@@ -120,7 +120,7 @@ const bgColor = 'black';
 </BackgroundReadableColorText>
 ```
 
-`This package uses readableColor function from [polished](https://www.npmjs.com/package/polished) lib to compute the colors. If you would like to read more check [here](https://polished.js.org/docs/#readablecolor)`
+This package uses `readableColor` function from [polished](https://www.npmjs.com/package/polished) lib to compute the colors. If you would like to read more check [here](https://polished.js.org/docs/#readablecolor).
 
 ## Contributing
 
