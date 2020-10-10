@@ -1,6 +1,6 @@
 {
   "name": "@radicalcondor/react-native-background-readable-color",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A react native component that sets the text color to a readable color given a background color",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
