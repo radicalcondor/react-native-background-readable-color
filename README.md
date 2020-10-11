@@ -28,13 +28,20 @@ yarn add @radicalcondor/react-native-background-readable-color
 
 You can run the example project by doing
 ```sh
-yarn bootstrap
+yarn
 ```
+`It will exit 1 here, but that's okay.`
 and then
 ```sh
-yarn example ios
+cd example
+yarn
+yarn pods
 ```
-or 
+then
+```sh
+yarn example android
+```
+or
 ```sh
 yarn example android
 ```
