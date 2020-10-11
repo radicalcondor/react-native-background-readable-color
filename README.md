@@ -39,11 +39,11 @@ yarn pods
 ```
 then
 ```sh
-yarn example android
+yarn ios
 ```
 or
 ```sh
-yarn example android
+yarn android
 ```
 
 ## Usage
