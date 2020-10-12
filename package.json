@@ -31,13 +31,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/radicalcondor/react-native-background-aware-text",
+  "repository": "https://github.com/radicalcondor/react-native-background-readable-color",
   "author": "Cai Leao <cainaleao.uk@gmail.com> (https://github.com/cainaleaouk)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/radicalcondor/react-native-background-aware-text/issues"
+    "url": "https://github.com/radicalcondor/react-native-background-readable-color/issues"
   },
-  "homepage": "https://github.com/radicalcondor/react-native-background-aware-text#readme",
+  "homepage": "https://github.com/radicalcondor/react-native-background-readable-color#readme",
   "devDependencies": {
     "@commitlint/config-conventional": "^8.3.4",
     "@react-native-community/bob": "^0.16.2",
